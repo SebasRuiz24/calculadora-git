@@ -18,7 +18,7 @@ print("2. Resta")
 print("3. Multiplicación")
 print("4. División")
 
-op = input("Seleccione una opción (1-4): ")
+op = input("Seleccione una opcion (1-4): ").strip()
 
 a = float(input("Ingrese el primer número: "))
 b = float(input("Ingrese el segundo número: "))
