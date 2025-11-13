@@ -1,3 +1,5 @@
+print("Bienvenido a la calculadora desarrollada en Git para el taller")
+
 def suma(a, b):
     return a + b
 
